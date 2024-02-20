@@ -42,7 +42,7 @@ export default function Home() {
       </p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}>Slides</h2>
-      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeR7UUMWodX3utr2l_Wwuy2mqfiFFxHri0n-sYI9foXX6alNOLmRWpU3F3M4FGxQ/embed?start=false&loop=true&delayms=60000" frameBorder="0" width="650" height="325" allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false"></iframe>
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeR7UUMWodX3utr2l_Wwuy2mqfiFFxHri0n-sYI9foXX6alNOLmRWpU3F3M4FGxQ/embed?start=false&loop=true&delayms=60000" frameBorder="0" width="650" height="325"></iframe>
       </main>
       </>
   );
