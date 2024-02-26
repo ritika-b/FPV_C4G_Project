@@ -42,7 +42,11 @@ export default function Home() {
       </p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}>Slides</h2>
-      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeR7UUMWodX3utr2l_Wwuy2mqfiFFxHri0n-sYI9foXX6alNOLmRWpU3F3M4FGxQ/embed?start=false&loop=true&delayms=60000" frameBorder="0" width="650" height="325"></iframe>
+      <p className={`text-sm opacity-75`}>
+        <a href="https://docs.google.com/presentation/d/1GnXnN-izJeJhO-etczadnbdDqqk_KZoH/edit?usp=sharing&ouid=109814695707801926532&rtpof=true&sd=true">Slide Link</a>
+        <br></br>
+        <a href="https://colab.research.google.com/drive/1h_Rz7wkZC0svWDwmME-BKu7ee98F8FhK?usp=sharing#scrollTo=qQRqbCAhYle3">MVP Link</a>
+      </p>
       </main>
       </>
   );
