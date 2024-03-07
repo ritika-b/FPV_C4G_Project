@@ -41,11 +41,26 @@ export default function Home() {
         </ul>
       </p>
       <br></br>
-      <h2 className={`text-1xl font-semibold`}>Slides</h2>
+      <h2 className={`text-1xl font-semibold`}>Slides and MVP</h2>
       <p className={`text-sm opacity-75`}>
         <a href="https://docs.google.com/presentation/d/1GnXnN-izJeJhO-etczadnbdDqqk_KZoH/edit?usp=sharing&ouid=109814695707801926532&rtpof=true&sd=true">Slide Link</a>
         <br></br>
         <a href="https://colab.research.google.com/drive/1h_Rz7wkZC0svWDwmME-BKu7ee98F8FhK?usp=sharing#scrollTo=qQRqbCAhYle3">MVP Link</a>
+      </p>
+      <br></br>
+      <h2 className={`text-1xl font-semibold`}>Links </h2>
+      <p className={`text-sm opacity-75`}>
+        <ul>
+          <li><a href="https://docs.google.com/presentation/d/1GnXnN-izJeJhO-etczadnbdDqqk_KZoH/edit?usp=sharing&ouid=109814695707801926532&rtpof=true&sd=true">Slide Link</a></li>
+          <li><a href="https://colab.research.google.com/drive/1h_Rz7wkZC0svWDwmME-BKu7ee98F8FhK?usp=sharing#scrollTo=qQRqbCAhYle3">MVP Link</a></li>
+          <li><a href="https://colab.research.google.com/drive/1h_Rz7wkZC0svWDwmME-BKu7ee98F8FhK?usp=sharing#scrollTo=WJyw1lVeKihy">Google Colab Link</a></li>
+        </ul>
+      </p>
+      <br></br>
+      <h2 className={`text-1xl font-semibold`}>Weekly Updates</h2>
+      <h3 className={`ßfont-semibold`}>Week of 4th March 2024</h3>
+      <p className={`text-sm opacity-75`}>
+        There are two main tasks which will be worked upon in parallel: 1) Conducting an evaluation by selecting specific events i.e. Gaza/u=Ukraine to test the hypothesis: does having an ensemble forecast make sense as compared to individual forecasts? Then a list of all possible ensemble forecast methodologies will be created and discussed with UNDP. 2) Dashboard Development in Plotly Dash where the initial tasks include the setup up a basic authentication, deployment on Render.com, and a basic web app implementation with the current data we have.
       </p>
       </main>
       </>
