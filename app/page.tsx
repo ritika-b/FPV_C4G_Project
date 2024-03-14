@@ -15,7 +15,13 @@ export default function Home() {
       <meta name="theme-color" content="#317EFB"/>
       <h1 className={`text-2xl font-semibold`}>UNDP Forecasting Political Violence Page</h1>
       <br></br>
-      <p className={`text-sm opacity-75`}>Link to our project: <a href="https://undp-app.onrender.com/">Project Link</a></p>
+      <p className={`text-sm opacity-75`}>Link to our project: <a href="https://undp-app.onrender.com/">Project Link</a>
+        You can use these credentials to test out the tool:
+        <ul>
+          <li>Username: GTStudent</li>
+          <li>Password: OMSCSc4g!</li>
+        </ul>
+      </p>
       <h2 className={`text-1xl font-semibold`}> Partner Objectives </h2>
       <p className={`text-sm opacity-75`}> An integrated approach that seamlessly integrates heterogeneous forecasting outputs to offer a novel resource for uncovering new insights and patterns in political violence, so researchers, policymakers, and the international community can address and mitigate the impacts of political violence effectively. </p>
       <br></br>
