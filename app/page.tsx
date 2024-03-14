@@ -22,6 +22,8 @@ export default function Home() {
           <li>Password: OMSCSc4g!</li>
         </ul>
       </p>
+      <p className={`text-sm opacity-75`}>Give us feedback <a href="https://forms.gle/QxXdmpbExYP8qeqQA">here</a>.</p>
+      <br></br>
       <h2 className={`text-1xl font-semibold`}> Partner Objectives </h2>
       <p className={`text-sm opacity-75`}> An integrated approach that seamlessly integrates heterogeneous forecasting outputs to offer a novel resource for uncovering new insights and patterns in political violence, so researchers, policymakers, and the international community can address and mitigate the impacts of political violence effectively. </p>
       <br></br>
