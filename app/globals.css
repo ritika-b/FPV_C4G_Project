@@ -7,7 +7,7 @@ html {
   --page-color: white;
   --ink-color: black;
 }
-@media (prefers-color-scheme: dark) {
+@media (max-width: 700px) {
   html {
     --page-color: black;
     --ink-color: white;
@@ -19,6 +19,7 @@ body {
   letter-spacing: 0.03ch;
   background-color: var(--page-color);
   color: var(--ink-color);
+  padding: 25px 50px 75px 100px;
 }
 input {
   font-size: 1rem;
@@ -35,4 +36,13 @@ button {
   text-transform: uppercase;
   letter-spacing: 0.2ch;
   border-radius: 2px;
+}
+a:link, a:visited {
+  color: #4a66df;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: circle;
+  padding: 5px;
 }

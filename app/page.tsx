@@ -15,8 +15,8 @@ export default function Home() {
       <meta name="theme-color" content="#317EFB"/>
       <h1 className={`text-2xl font-semibold`}>UNDP Forecasting Political Violence Page</h1>
       <br></br>
-      <p className={`text-sm opacity-75`}>Link to our project: <a href="https://undp-app.onrender.com/">Project Link</a>
-        You can use these credentials to test out the tool:
+      <p className={`text-sm opacity-75`}> Test our project out <a href="https://undp-app.onrender.com/"> here</a>. The login credentials are:
+        <br></br>
         <ul>
           <li>Username: GTStudent</li>
           <li>Password: OMSCSc4g!</li>
@@ -71,6 +71,7 @@ export default function Home() {
       <p className={`text-sm opacity-75`}>
         There are two main tasks which will be worked upon in parallel: 1) Conducting an evaluation by selecting specific events i.e. Gaza/u=Ukraine to test the hypothesis: does having an ensemble forecast make sense as compared to individual forecasts? Then a list of all possible ensemble forecast methodologies will be created and discussed with UNDP. 2) Dashboard Development in Plotly Dash where the initial tasks include the setup up a basic authentication, deployment on Render.com, and a basic web app implementation with the current data we have.
       </p>
+      <br></br>
       <h3 className={`ßfont-semibold`}>Week of 4th March 2024</h3>
       <p className={`text-sm opacity-75`}>
       The case evaluation will be finalized and the first MVP in Plotly Dash will be  finalized. Moreover, a Google Form will be created for the peer evaluation and the link will be added to our website. We will also deploy our Plotly Dash webpage with authentication (where details will be provided on our website for students to access). 
