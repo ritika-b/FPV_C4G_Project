@@ -45,7 +45,7 @@ export default function Home() {
         <ul>
           <li>Performance: 100 </li>
           <li>Accessibility: 100 </li>
-          <li>Best Practices: 93</li>
+          <li>Best Practices: 100</li>
           <li>SEO: 100</li>
         </ul>
       </p>
