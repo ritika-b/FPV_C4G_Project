@@ -2,8 +2,8 @@ import ScrollUp from "@/components/Common/ScrollUp";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "UNDP FPV Project",
-  description: "This is Home for UNDP FPV Project",
+  title: "Forecasting Political Violence",
+  description: "This is Home for FPV Project",
   // other metadata
 };
 
@@ -13,14 +13,9 @@ export default function Home() {
     <ScrollUp />
     <main>
       <meta name="theme-color" content="#317EFB"/>
-      <h1 className={`text-2xl font-semibold`}>UNDP Forecasting Political Violence Page</h1>
+      <h1 className={`text-2xl font-semibold`}> Forecasting Political Violence</h1>
       <br></br>
-      <p className={`text-sm opacity-75`}> Test our project out <a href="https://undp-app.onrender.com/"> here</a>. The login credentials are:
-        <br></br>
-        <ul>
-          <li>Username: GTStudent</li>
-          <li>Password: OMSCSc4g!</li>
-        </ul>
+      <p className={`text-sm opacity-75`}> Test our project out <a href="https://undp-app.onrender.com/"> here</a>.
       </p>
       <p className={`text-sm opacity-75`}>Give us feedback <a href="https://forms.gle/QxXdmpbExYP8qeqQA">here</a>.</p>
       <br></br>
@@ -62,7 +57,7 @@ export default function Home() {
       <h2 className={`text-1xl font-semibold`}>Weekly Updates</h2>
       <h3 className={`ßfont-semibold`}>Week of 11th March 2024</h3>
       <p className={`text-sm opacity-75`}>
-        There are two main tasks which will be worked upon in parallel: 1) Conducting an evaluation by selecting specific events i.e. Gaza/u=Ukraine to test the hypothesis: does having an ensemble forecast make sense as compared to individual forecasts? Then a list of all possible ensemble forecast methodologies will be created and discussed with UNDP. 2) Dashboard Development in Plotly Dash where the initial tasks include the setup up a basic authentication, deployment on Render.com, and a basic web app implementation with the current data we have.
+        There are two main tasks which will be worked upon in parallel: 1) Conducting an evaluation by selecting specific events i.e. Gaza/u=Ukraine to test the hypothesis: does having an ensemble forecast make sense as compared to individual forecasts? Then a list of all possible ensemble forecast methodologies will be created and discussed. 2) Dashboard Development in Plotly Dash where the initial tasks include the setup up a basic authentication, deployment on Render.com, and a basic web app implementation with the current data we have.
       </p>
       <br></br>
       <h3 className={`ßfont-semibold`}>Week of 4th March 2024</h3>
