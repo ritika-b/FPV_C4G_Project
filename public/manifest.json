@@ -1,6 +1,6 @@
 {
-    "name": "UNDP FPV",
-    "short_name": "UNDPFPV",
+    "name": "FPV",
+    "short_name": "FPV",
     "description": "Forecasting Political Violence",
     "start_url": "/",
     "display": "standalone",
