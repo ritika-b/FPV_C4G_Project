@@ -15,7 +15,7 @@ export default function Home() {
       <meta name="theme-color" content="#317EFB"/>
       <h1 className={`text-2xl font-semibold`}> Forecasting Political Violence</h1>
       <br></br>
-      <p className={`text-sm opacity-75`}> Test our project out <a href="https://undp-app.onrender.com/"> here</a>.
+      <p className={`text-sm opacity-75`}> Test our project out <a href="https://fpv-dashboard.onrender.com/"> here</a>.
       </p>
       <p className={`text-sm opacity-75`}>Give us feedback <a href="https://forms.gle/QxXdmpbExYP8qeqQA">here</a>.</p>
       <br></br>
