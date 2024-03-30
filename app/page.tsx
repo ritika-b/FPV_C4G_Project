@@ -25,12 +25,12 @@ export default function Home() {
       <h1 className={`text-2xl font-semibold`}> OMSCS C4G Project: Forecasting Political Violence</h1>
       <br></br>
       <h2 className={`text-1xl font-semibold`}> Demo </h2>
-      <p className={`text-sm opacity-75`}>View the <a href="https://gtvault-my.sharepoint.com/:p:/r/personal/zakhtar8_gatech_edu/_layouts/15/Doc.aspx?sourcedoc=%7BCA034BFE-CE4A-43D7-B9AF-0B2B1656546E%7D&file=p6-Demo.pptx&action=edit&mobileredirect=true">presentation slides.</a></p>
-      <p className={`text-sm opacity-75`}>Watch the <a href="https://gtvault-my.sharepoint.com/:v:/g/personal/zakhtar8_gatech_edu/ER8sFX-gZ4pHqy4GAB2QGuABDeyMScECeoduLjtn0zak_A?e=dt4q2L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">presenation recording.</a></p>
+      <p className={`text-sm opacity-75`}>View the <a href="https://gtvault-my.sharepoint.com/:p:/r/personal/zakhtar8_gatech_edu/_layouts/15/Doc.aspx?sourcedoc=%7BCA034BFE-CE4A-43D7-B9AF-0B2B1656546E%7D&file=p6-Demo.pptx&action=edit&mobileredirect=true">presentation slides</a>.</p>
+      <p className={`text-sm opacity-75`}>Watch the <a href="https://gtvault-my.sharepoint.com/:v:/g/personal/zakhtar8_gatech_edu/ER8sFX-gZ4pHqy4GAB2QGuABDeyMScECeoduLjtn0zak_A?e=dt4q2L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">presenation recording</a>.</p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}> Peer Evaluations </h2>
-      <p className={`text-sm opacity-75`}><a href="https://fpv-dashboard-cwaa.onrender.com/">Test our project out.</a></p>
-      <p className={`text-sm opacity-75`}><a href="https://forms.gle/QxXdmpbExYP8qeqQA">Give us feedback.</a></p>
+      <p className={`text-sm opacity-75`}><a href="https://fpv-dashboard-cwaa.onrender.com/">Test our project out</a>.</p>
+      <p className={`text-sm opacity-75`}><a href="https://forms.gle/QxXdmpbExYP8qeqQA">Give us feedback</a>.</p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}> Partner Objectives </h2>
       <p className={`text-sm opacity-75`}> An integrated approach that seamlessly integrates heterogeneous forecasting outputs to offer a novel resource for uncovering new insights and patterns in political violence, so researchers, policymakers, and the international community can address and mitigate the impacts of political violence effectively on a global scale. </p>
