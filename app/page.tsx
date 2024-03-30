@@ -24,9 +24,9 @@ export default function Home() {
       <meta name="theme-color" content="#317EFB"/>
       <h1 className={`text-2xl font-semibold`}> OMSCS C4G Project: Forecasting Political Violence</h1>
       <br></br>
-      <p className={`text-sm opacity-75`}> Test our project out <a href="https://fpv-dashboard-cwaa.onrender.com/"> here</a>.
+      <p className={`text-sm opacity-75`}><a href="https://fpv-dashboard-cwaa.onrender.com/">Test our project out.</a>
       </p>
-      <p className={`text-sm opacity-75`}>Give us feedback <a href="https://forms.gle/QxXdmpbExYP8qeqQA">here</a>.</p>
+      <p className={`text-sm opacity-75`}><a href="https://forms.gle/QxXdmpbExYP8qeqQA">Give us feedback.</a></p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}> Partner Objectives </h2>
       <p className={`text-sm opacity-75`}> An integrated approach that seamlessly integrates heterogeneous forecasting outputs to offer a novel resource for uncovering new insights and patterns in political violence, so researchers, policymakers, and the international community can address and mitigate the impacts of political violence effectively on a global scale. </p>

@@ -39,7 +39,7 @@ button {
 }
 a:link, a:visited {
   color: #0028f2;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 ul {
