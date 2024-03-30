@@ -9,12 +9,6 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-// Dynamically import components that are not critical for the initial page load.
-const NonCriticalComponent = dynamic(() => import('@/components/Common/NonCriticalComponent'), {
-  loading: () => <p>Loading...</p>,
-  ssr: false, // Disable server-side rendering for this component if it's client-specific.
-});
-
 export default function Home() {
   return (
     <>
@@ -93,7 +87,6 @@ export default function Home() {
       <br></br>
       <h3 className={`ßfont-semibold`}>What We've Done So Far...</h3>
       <p className={`text-sm opacity-75`}>The team researched the 3 existing forecasting tools (ACLED CAST, ViEWS, and Conflict Forecast) and the corresponding input datasets (ACLED and UCDP) to understand how each system works i.e. temporal, spatial, thresholding, forecast output etc. After this an MVP was developed in a Google Colab environment that downloads forecasting data from the three tools via their API, performs spatial/temporal transformations, after which an ensemble forecast is made via ranking and normalization. This ensemble forecast is then visualized on a map where the user can select any country and view the upcoming 3 month forecasts (Feb, March, April 2024).</p>
-      <NonCriticalComponent />
       </main>
       </>
   );
