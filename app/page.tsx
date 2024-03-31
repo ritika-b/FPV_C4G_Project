@@ -52,8 +52,8 @@ export default function Home() {
       <p className={`text-sm opacity-75`}>
         <ul>
           <li>Performance: 100 </li>
-          <li>Accessibility: 100 </li>
-          <li>Best Practices: 100</li>
+          <li>Accessibility: 94 </li>
+          <li>Best Practices: 96</li>
           <li>SEO: 100</li>
         </ul>
       </p>
