@@ -69,9 +69,14 @@ export default function Home() {
       <br></br>
       <h2 className={`text-1xl font-semibold`}>Weekly Project Updates</h2>
 
+      <h3 className={`ßfont-semibold`}>Week of 8th April 2024</h3>
+      <p className={`text-sm opacity-75`}>
+        The feedback from the evaluation has been incorporated and the dashboard has been finalized and pushed to a private Github where our stakeholders are also part of. The team prepared slides and screen recorded the Final Presentation and also prepared the user documentation.
+      </p>
+      <br></br>
       <h3 className={`ßfont-semibold`}>Week of 1st April 2024</h3>
       <p className={`text-sm opacity-75`}>
-        The field evaluation instructions will be prepared, the team will meet the stakeholders for an evaluation of the dashboard where a set of tasks will be given to them. Their evaluation will be recorded as well as the feedback they give needed for P7-FieldEvaluation. The feedback will be incorporated to further improve the MVP.
+        The field evaluation instructions was be prepared where the team met with 2 stakeholders for an evaluation of the dashboard. Their evaluation was recorded as well as their feedback needed writeup P7-FieldEvaluation.
       </p>
       <br></br>
       <h3 className={`ßfont-semibold`}>Week of 24th March 2024</h3>
