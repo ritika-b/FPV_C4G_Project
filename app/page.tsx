@@ -68,7 +68,11 @@ export default function Home() {
       </p>
       <br></br>
       <h2 className={`text-1xl font-semibold`}>Weekly Project Updates</h2>
-
+      <h3 className={`ßfont-semibold`}>Week of 21st April 2024</h3>
+      <p className={`text-sm opacity-75`}>The team worked on and finalized the p10-final report and submitted it, thus successfully concluding the project collaboration with UNDP.</p>
+      <h3 className={`ßfont-semibold`}>Week of 14th April 2024</h3>
+      <p className={`text-sm opacity-75`}>The final dashboard was cleaned and commented, and handed over to the stakeholders in a walk-through meeting. The developed document was also finalized and submitted.
+      </p>
       <h3 className={`ßfont-semibold`}>Week of 8th April 2024</h3>
       <p className={`text-sm opacity-75`}>
         The feedback from the evaluation has been incorporated and the dashboard has been finalized and pushed to a private Github where our stakeholders are also part of. The team prepared slides and screen recorded the Final Presentation and also prepared the user documentation.
